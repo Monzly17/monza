@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/monza"
+    "url": "git+https://github.com/benisadewa/monza"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/monza"
+    "url": "https://github.com/benisadewa/monza"
   },
-  "homepage": "https://github.com/#monza"
+  "homepage": "https://github.com/#benisadewa/monza"
 }
