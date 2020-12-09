@@ -16,7 +16,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/Monly17/monza
+> git clone https://github.com/Monzly17/monza
 > cd monza
 > bash install.sh
 > node index.js
